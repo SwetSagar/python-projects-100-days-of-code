@@ -1,6 +1,3 @@
-# Python_Projects
- Portfolio projects
+# Various Projects made in Python and Learnings.
 
-This repo would contain projects made in Python
 
-1. Numbers Guessing game
