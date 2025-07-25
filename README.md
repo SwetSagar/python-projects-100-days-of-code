@@ -1,4 +1,4 @@
-# Various Projects made in Python.
-This is a currently online private project. It would house projects from basic to advanced level made in Python.
+# Python Projects from 100 days of Code
 
+This repo contains the 100 projects from the 100 days of code by Angela Yu.
 
