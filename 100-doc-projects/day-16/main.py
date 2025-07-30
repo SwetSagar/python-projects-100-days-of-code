@@ -1,12 +1,10 @@
-import turtle
+from prettytable import PrettyTable
 
-turtle.title("Turtle Drawing")
-turtle.bgcolor("black")
-turtle.pensize(2)
-def draw_square(color):
-    turtle.fillcolor(color)
-    turtle.begin_fill()
-    for _ in range(4):
-        turtle.forward(100)
-        turtle.right(90)
-    turtle.end_fill()
+table = PrettyTable()
+
+table.add_column("Name", ["Alice", "Bob", "Charlie"])
+table.add_column("Age", [24, 30, 22])
+
+table.align = "c"  # Align all columns to the left
+
+print(table)
