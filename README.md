@@ -2,7 +2,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8f81fce0-d336-4777-8fe5-8e0c7fe6859c" alt="image" style="max-width:100%;height:auto;" />
+  <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/a5449b90-d81e-40f9-9e12-c08e866eaf75" />
 </p>
 
 From the Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
