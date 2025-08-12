@@ -1,6 +1,9 @@
 <h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp
 </h1>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8f81fce0-d336-4777-8fe5-8e0c7fe6859c" alt="image" style="max-width:100%;height:auto;" />
+</p>
 
 From the Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
